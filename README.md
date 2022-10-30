@@ -3,6 +3,7 @@ Application built for taking and storing notes. Express.js Back-end for taking a
 
 
 - [Installation](#installation)
+- [Technology](#technology)
 - [Usage](#usage)
 - [License](#license)
 - [Author](#author)
@@ -13,11 +14,16 @@ Application built for taking and storing notes. Express.js Back-end for taking a
 
 ## Application Preview
 
+## Technology
+1. Express.js
+2. Node.js
+2. Uuid
 
 ## Installation
 * requires NPM and Node.js
 
-To deploy app locally, please run (cmd) "npm install", "npm start run" to view the local dev build
+To deploy app locally, please run (cmd) 
+[npm install], "npm start run" to view the local dev build
 
 ## Usage
 To deploy "production" version of the app, create by running (cmd) "npm build", "npm run build"
