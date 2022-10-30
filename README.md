@@ -9,10 +9,11 @@ Application built for taking and storing notes. Express.js Back-end for taking a
 - [Author](#author)
 
 ## Deployed Application
-**[🖥️ Deployed Application 🖱️](https://react-portfolio-mccool.herokuapp.com/)**
-
+**[🖥️ Deployed Application 🖱️]([[https://react-portfolio-mccool.herokuapp.com/](https://m-ccool-expressjs-note-taker.herokuapp.com/)](https://m-ccool-expressjs-note-taker.herokuapp.com/))**
 
 ## Application Preview
+![expressjs-note-taker-preview1](https://user-images.githubusercontent.com/101916187/198903091-b472bc55-08a8-4ca5-a72b-94fbfec5af36.png)
+![expressjs-note-taker-preview2](https://user-images.githubusercontent.com/101916187/198903089-7e9fde66-37e1-4016-8704-1c36febe5aa0.png)
 
 ## Technology
 1. Express.js
