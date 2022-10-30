@@ -27,10 +27,9 @@ To deploy app locally, please run (cmd)
 npm i
 node server.js
 ```
-to view the local dev build
 
 ## Usage
-To deploy "production" version of the app, create by running (cmd) "npm build", "npm run build"
+For recording and keeping notes (.json) for online and offline use
 
 ## License
 n/a
